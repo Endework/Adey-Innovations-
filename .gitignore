@@ -1,3 +1,8 @@
 Data/creditcard.csv
 Data/Fraud_Data.csv
 Data/IpAddress_to_Country.csv
+Data/credit_clean.csv
+Data/fraud_clean.csv
+Data/ip_clean.csv
+Data/fraud_preprocessed.csv
+Data/ip_fraud_merged.csv
