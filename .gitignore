@@ -6,3 +6,382 @@ Data/fraud_clean.csv
 Data/ip_clean.csv
 Data/fraud_preprocessed.csv
 Data/ip_fraud_merged.csv
+mlruns/0/meta.yaml
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/meta.yaml
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/conda.yaml
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/MLmodel
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/model.pkl
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/python_env.yaml
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/requirements.txt
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/metadata/conda.yaml
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/metadata/MLmodel
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/metadata/python_env.yaml
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/artifacts/MLP/metadata/requirements.txt
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/metrics/accuracy
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/metrics/f1_score
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/metrics/precision
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/metrics/recall
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/params/model_type
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/tags/mlflow.log-model.history
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/tags/mlflow.runName
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/tags/mlflow.source.name
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/tags/mlflow.source.type
+mlruns/0/13c2018e9f264769a64072c5d54f3b1e/tags/mlflow.user
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/meta.yaml
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/conda.yaml
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/MLmodel
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/model.pkl
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/python_env.yaml
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/requirements.txt
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/metadata/conda.yaml
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/metadata/MLmodel
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/metadata/python_env.yaml
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/artifacts/Logistic Regression/metadata/requirements.txt
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/metrics/accuracy
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/metrics/f1_score
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/metrics/precision
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/metrics/recall
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/params/model_type
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/tags/mlflow.log-model.history
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/tags/mlflow.runName
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/tags/mlflow.source.name
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/tags/mlflow.source.type
+mlruns/0/20d422e10de242af8ef196d706cf8ba7/tags/mlflow.user
+mlruns/0/29fdb24a53434f108707ba0a7f067548/meta.yaml
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/conda.yaml
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/MLmodel
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/model.pkl
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/python_env.yaml
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/requirements.txt
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/metadata/conda.yaml
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/metadata/MLmodel
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/metadata/python_env.yaml
+mlruns/0/29fdb24a53434f108707ba0a7f067548/artifacts/Gradient Boosting/metadata/requirements.txt
+mlruns/0/29fdb24a53434f108707ba0a7f067548/metrics/accuracy
+mlruns/0/29fdb24a53434f108707ba0a7f067548/metrics/f1_score
+mlruns/0/29fdb24a53434f108707ba0a7f067548/metrics/precision
+mlruns/0/29fdb24a53434f108707ba0a7f067548/metrics/recall
+mlruns/0/29fdb24a53434f108707ba0a7f067548/params/model_type
+mlruns/0/29fdb24a53434f108707ba0a7f067548/tags/mlflow.log-model.history
+mlruns/0/29fdb24a53434f108707ba0a7f067548/tags/mlflow.runName
+mlruns/0/29fdb24a53434f108707ba0a7f067548/tags/mlflow.source.name
+mlruns/0/29fdb24a53434f108707ba0a7f067548/tags/mlflow.source.type
+mlruns/0/29fdb24a53434f108707ba0a7f067548/tags/mlflow.user
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/meta.yaml
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/conda.yaml
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/MLmodel
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/model.pkl
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/python_env.yaml
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/requirements.txt
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/metadata/conda.yaml
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/metadata/MLmodel
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/metadata/python_env.yaml
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/artifacts/MLP/metadata/requirements.txt
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/metrics/accuracy
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/metrics/f1_score
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/metrics/precision
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/metrics/recall
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/params/model_type
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/tags/mlflow.log-model.history
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/tags/mlflow.runName
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/tags/mlflow.source.name
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/tags/mlflow.source.type
+mlruns/0/5c12953617c44770b8643f6e1bedcfdc/tags/mlflow.user
+mlruns/0/81647ae0f624468aaf2367a911a8a769/meta.yaml
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/conda.yaml
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/MLmodel
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/model.pkl
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/python_env.yaml
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/requirements.txt
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/metadata/conda.yaml
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/metadata/MLmodel
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/metadata/python_env.yaml
+mlruns/0/81647ae0f624468aaf2367a911a8a769/artifacts/Random Forest/metadata/requirements.txt
+mlruns/0/81647ae0f624468aaf2367a911a8a769/metrics/accuracy
+mlruns/0/81647ae0f624468aaf2367a911a8a769/metrics/f1_score
+mlruns/0/81647ae0f624468aaf2367a911a8a769/metrics/precision
+mlruns/0/81647ae0f624468aaf2367a911a8a769/metrics/recall
+mlruns/0/81647ae0f624468aaf2367a911a8a769/params/model_type
+mlruns/0/81647ae0f624468aaf2367a911a8a769/tags/mlflow.log-model.history
+mlruns/0/81647ae0f624468aaf2367a911a8a769/tags/mlflow.runName
+mlruns/0/81647ae0f624468aaf2367a911a8a769/tags/mlflow.source.name
+mlruns/0/81647ae0f624468aaf2367a911a8a769/tags/mlflow.source.type
+mlruns/0/81647ae0f624468aaf2367a911a8a769/tags/mlflow.user
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/meta.yaml
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/conda.yaml
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/MLmodel
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/model.pkl
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/python_env.yaml
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/requirements.txt
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/metadata/conda.yaml
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/metadata/MLmodel
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/metadata/python_env.yaml
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/artifacts/Logistic Regression/metadata/requirements.txt
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/metrics/accuracy
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/metrics/f1_score
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/metrics/precision
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/metrics/recall
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/params/model_type
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/tags/mlflow.log-model.history
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/tags/mlflow.runName
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/tags/mlflow.source.name
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/tags/mlflow.source.type
+mlruns/0/8c7ca7fc5f9e47f6a84e9db98e0865f0/tags/mlflow.user
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/meta.yaml
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/conda.yaml
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/MLmodel
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/python_env.yaml
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/requirements.txt
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/data/global_custom_objects.cloudpickle
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/data/keras_module.txt
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/data/save_format.txt
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/data/model/fingerprint.pb
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/data/model/keras_metadata.pb
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/data/model/saved_model.pb
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/data/model/variables/variables.data-00000-of-00001
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/data/model/variables/variables.index
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/metadata/conda.yaml
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/metadata/MLmodel
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/metadata/python_env.yaml
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/artifacts/RNN/metadata/requirements.txt
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/metrics/accuracy
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/tags/mlflow.log-model.history
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/tags/mlflow.runName
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/tags/mlflow.source.name
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/tags/mlflow.source.type
+mlruns/0/92a8b92e59a14ed19a696081033f6f23/tags/mlflow.user
+mlruns/0/a54f0a6902454c57913ac662108390a2/meta.yaml
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/conda.yaml
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/MLmodel
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/model.pkl
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/python_env.yaml
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/requirements.txt
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/metadata/conda.yaml
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/metadata/MLmodel
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/metadata/python_env.yaml
+mlruns/0/a54f0a6902454c57913ac662108390a2/artifacts/Decision Tree/metadata/requirements.txt
+mlruns/0/a54f0a6902454c57913ac662108390a2/metrics/accuracy
+mlruns/0/a54f0a6902454c57913ac662108390a2/metrics/f1_score
+mlruns/0/a54f0a6902454c57913ac662108390a2/metrics/precision
+mlruns/0/a54f0a6902454c57913ac662108390a2/metrics/recall
+mlruns/0/a54f0a6902454c57913ac662108390a2/params/model_type
+mlruns/0/a54f0a6902454c57913ac662108390a2/tags/mlflow.log-model.history
+mlruns/0/a54f0a6902454c57913ac662108390a2/tags/mlflow.runName
+mlruns/0/a54f0a6902454c57913ac662108390a2/tags/mlflow.source.name
+mlruns/0/a54f0a6902454c57913ac662108390a2/tags/mlflow.source.type
+mlruns/0/a54f0a6902454c57913ac662108390a2/tags/mlflow.user
+mlruns/0/c39d42025090457685590ee2b507fad2/meta.yaml
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/conda.yaml
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/MLmodel
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/python_env.yaml
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/requirements.txt
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/data/global_custom_objects.cloudpickle
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/data/keras_module.txt
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/data/save_format.txt
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/data/model/fingerprint.pb
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/data/model/keras_metadata.pb
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/data/model/saved_model.pb
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/data/model/variables/variables.data-00000-of-00001
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/data/model/variables/variables.index
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/metadata/conda.yaml
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/metadata/MLmodel
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/metadata/python_env.yaml
+mlruns/0/c39d42025090457685590ee2b507fad2/artifacts/LSTM/metadata/requirements.txt
+mlruns/0/c39d42025090457685590ee2b507fad2/metrics/accuracy
+mlruns/0/c39d42025090457685590ee2b507fad2/tags/mlflow.log-model.history
+mlruns/0/c39d42025090457685590ee2b507fad2/tags/mlflow.runName
+mlruns/0/c39d42025090457685590ee2b507fad2/tags/mlflow.source.name
+mlruns/0/c39d42025090457685590ee2b507fad2/tags/mlflow.source.type
+mlruns/0/c39d42025090457685590ee2b507fad2/tags/mlflow.user
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/meta.yaml
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/conda.yaml
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/MLmodel
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/model.pkl
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/python_env.yaml
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/requirements.txt
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/metadata/conda.yaml
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/metadata/MLmodel
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/metadata/python_env.yaml
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/artifacts/Decision Tree/metadata/requirements.txt
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/metrics/accuracy
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/metrics/f1_score
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/metrics/precision
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/metrics/recall
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/params/model_type
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/tags/mlflow.log-model.history
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/tags/mlflow.runName
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/tags/mlflow.source.name
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/tags/mlflow.source.type
+mlruns/0/c5275c8beeaf4c04b3b6336d5b3e3320/tags/mlflow.user
+mlruns/0/d77c03b82bdd453183f98e20c074930b/meta.yaml
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/conda.yaml
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/MLmodel
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/python_env.yaml
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/requirements.txt
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/data/global_custom_objects.cloudpickle
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/data/keras_module.txt
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/data/save_format.txt
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/data/model/fingerprint.pb
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/data/model/keras_metadata.pb
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/data/model/saved_model.pb
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/data/model/variables/variables.data-00000-of-00001
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/data/model/variables/variables.index
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/metadata/conda.yaml
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/metadata/MLmodel
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/metadata/python_env.yaml
+mlruns/0/d77c03b82bdd453183f98e20c074930b/artifacts/CNN/metadata/requirements.txt
+mlruns/0/d77c03b82bdd453183f98e20c074930b/metrics/accuracy
+mlruns/0/d77c03b82bdd453183f98e20c074930b/tags/mlflow.log-model.history
+mlruns/0/d77c03b82bdd453183f98e20c074930b/tags/mlflow.runName
+mlruns/0/d77c03b82bdd453183f98e20c074930b/tags/mlflow.source.name
+mlruns/0/d77c03b82bdd453183f98e20c074930b/tags/mlflow.source.type
+mlruns/0/d77c03b82bdd453183f98e20c074930b/tags/mlflow.user
+mlruns/0/dc2f5f1425f341cd83112749de17b292/meta.yaml
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/conda.yaml
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/MLmodel
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/model.pkl
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/python_env.yaml
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/requirements.txt
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/metadata/conda.yaml
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/metadata/MLmodel
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/metadata/python_env.yaml
+mlruns/0/dc2f5f1425f341cd83112749de17b292/artifacts/Logistic Regression/metadata/requirements.txt
+mlruns/0/dc2f5f1425f341cd83112749de17b292/metrics/accuracy
+mlruns/0/dc2f5f1425f341cd83112749de17b292/metrics/f1_score
+mlruns/0/dc2f5f1425f341cd83112749de17b292/metrics/precision
+mlruns/0/dc2f5f1425f341cd83112749de17b292/metrics/recall
+mlruns/0/dc2f5f1425f341cd83112749de17b292/params/model_type
+mlruns/0/dc2f5f1425f341cd83112749de17b292/tags/mlflow.log-model.history
+mlruns/0/dc2f5f1425f341cd83112749de17b292/tags/mlflow.runName
+mlruns/0/dc2f5f1425f341cd83112749de17b292/tags/mlflow.source.name
+mlruns/0/dc2f5f1425f341cd83112749de17b292/tags/mlflow.source.type
+mlruns/0/dc2f5f1425f341cd83112749de17b292/tags/mlflow.user
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/meta.yaml
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/conda.yaml
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/MLmodel
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/model.pkl
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/python_env.yaml
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/requirements.txt
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/metadata/conda.yaml
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/metadata/MLmodel
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/metadata/python_env.yaml
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/artifacts/Gradient Boosting/metadata/requirements.txt
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/metrics/accuracy
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/metrics/f1_score
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/metrics/precision
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/metrics/recall
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/params/model_type
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/tags/mlflow.log-model.history
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/tags/mlflow.runName
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/tags/mlflow.source.name
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/tags/mlflow.source.type
+mlruns/0/e9d7c5ecc276402d91369647ddb3b824/tags/mlflow.user
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/meta.yaml
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/conda.yaml
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/MLmodel
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/model.pkl
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/python_env.yaml
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/requirements.txt
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/metadata/conda.yaml
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/metadata/MLmodel
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/metadata/python_env.yaml
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/artifacts/Random Forest/metadata/requirements.txt
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/metrics/accuracy
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/metrics/f1_score
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/metrics/precision
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/metrics/recall
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/params/model_type
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/tags/mlflow.log-model.history
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/tags/mlflow.runName
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/tags/mlflow.source.name
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/tags/mlflow.source.type
+mlruns/0/ef2b9044ce0142b08426b39c54c50631/tags/mlflow.user
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/meta.yaml
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/conda.yaml
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/MLmodel
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/python_env.yaml
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/requirements.txt
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/data/global_custom_objects.cloudpickle
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/data/keras_module.txt
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/data/save_format.txt
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/data/model/fingerprint.pb
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/data/model/keras_metadata.pb
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/data/model/saved_model.pb
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/data/model/variables/variables.data-00000-of-00001
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/data/model/variables/variables.index
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/metadata/conda.yaml
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/metadata/MLmodel
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/metadata/python_env.yaml
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/artifacts/LSTM/metadata/requirements.txt
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/metrics/accuracy
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/tags/mlflow.log-model.history
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/tags/mlflow.runName
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/tags/mlflow.source.name
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/tags/mlflow.source.type
+mlruns/0/f3106eb88363423fbbe6a5c807541e13/tags/mlflow.user
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/meta.yaml
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/conda.yaml
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/MLmodel
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/python_env.yaml
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/requirements.txt
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/data/global_custom_objects.cloudpickle
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/data/keras_module.txt
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/data/save_format.txt
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/data/model/fingerprint.pb
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/data/model/keras_metadata.pb
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/data/model/saved_model.pb
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/data/model/variables/variables.data-00000-of-00001
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/data/model/variables/variables.index
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/metadata/conda.yaml
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/metadata/MLmodel
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/metadata/python_env.yaml
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/artifacts/CNN_Credit/metadata/requirements.txt
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/metrics/accuracy
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/tags/mlflow.log-model.history
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/tags/mlflow.runName
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/tags/mlflow.source.name
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/tags/mlflow.source.type
+mlruns/0/fc0c106fc67540b6b9bdd6c92d54d2fd/tags/mlflow.user
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/meta.yaml
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/conda.yaml
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/MLmodel
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/python_env.yaml
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/requirements.txt
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/data/global_custom_objects.cloudpickle
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/data/keras_module.txt
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/data/save_format.txt
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/data/model/fingerprint.pb
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/data/model/keras_metadata.pb
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/data/model/saved_model.pb
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/data/model/variables/variables.data-00000-of-00001
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/data/model/variables/variables.index
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/metadata/conda.yaml
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/metadata/MLmodel
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/metadata/python_env.yaml
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/artifacts/RNN_Credit/metadata/requirements.txt
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/metrics/accuracy
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/tags/mlflow.log-model.history
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/tags/mlflow.runName
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/tags/mlflow.source.name
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/tags/mlflow.source.type
+mlruns/0/fd8bd6503fa64c60926683f34963c2e9/tags/mlflow.user
+mlruns/0/fe2be22622f843b28985648261ed1302/meta.yaml
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/conda.yaml
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/MLmodel
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/model.pkl
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/python_env.yaml
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/requirements.txt
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/metadata/conda.yaml
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/metadata/MLmodel
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/metadata/python_env.yaml
+mlruns/0/fe2be22622f843b28985648261ed1302/artifacts/Decision Tree/metadata/requirements.txt
+mlruns/0/fe2be22622f843b28985648261ed1302/metrics/accuracy
+mlruns/0/fe2be22622f843b28985648261ed1302/metrics/f1_score
+mlruns/0/fe2be22622f843b28985648261ed1302/metrics/precision
+mlruns/0/fe2be22622f843b28985648261ed1302/metrics/recall
+mlruns/0/fe2be22622f843b28985648261ed1302/params/model_type
+mlruns/0/fe2be22622f843b28985648261ed1302/tags/mlflow.log-model.history
+mlruns/0/fe2be22622f843b28985648261ed1302/tags/mlflow.runName
+mlruns/0/fe2be22622f843b28985648261ed1302/tags/mlflow.source.name
+mlruns/0/fe2be22622f843b28985648261ed1302/tags/mlflow.source.type
+mlruns/0/fe2be22622f843b28985648261ed1302/tags/mlflow.user
